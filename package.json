@@ -3,7 +3,7 @@
 	"displayName": "md-custom-style",
 	"description": "MD Custom Styling",
 	"version": "0.0.1",
-	"icon": "logo/logox128.png",
+	"icon": "logo/loggox128.png",
 	"publisher": "someDev",
 	"main": "extension.js",
 	"repository": {
